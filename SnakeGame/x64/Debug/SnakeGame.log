@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BodyPart.cpp
+  Food.cpp
+  Game.cpp
+C:\Users\ASUS\Downloads\SnakeGame-master\SnakeGame-master\SnakeGame\Game.cpp(258,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\Downloads\SnakeGame-master\SnakeGame-master\SnakeGame\Game.cpp(277,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\Downloads\SnakeGame-master\SnakeGame-master\SnakeGame\Game.cpp(296,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  GameInfo.cpp
+  Settings.cpp
+  Snake.cpp
+  SnakeGameWnd.cpp
+  Создание кода...
+  SnakeGame.vcxproj -> C:\Users\ASUS\Downloads\SnakeGame-master\SnakeGame-master\x64\Debug\SnakeGame.exe
